@@ -21,4 +21,177 @@ ul {
   list-style: none;
 }
 
+.btn {
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  background: #f91257;
+  border-radius: 50px;
+  border: none;
+  padding: 15px 30px;
+  letter-spacing: 1px;
+  font-weight: 600;
+}
+
+.container {
+  max-width: 80%;
+}
+
+/******************************
+nav
+******************************/
+.navbar {
+  background-color: #09192c;
+}
+.navbar-toggler {
+  color: #f91257;
+  border: none;
+}
+.navbar-brand {
+  font-size: 1.8rem;
+  font-weight: 600;
+  color: white;
+}
+.navbar-brand span {
+  color: #f91257;
+}
+.navbar-brand:hover {
+  color: white;
+}
+.navbar .nav-link {
+  color: white;
+  transition: 0.3s ease;
+  font-size: 1rem;
+  margin: 0 15px;
+}
+.navbar .nav-link:hover {
+  color: #f91257;
+}
+
+/******************************
+footer
+******************************/
+footer {
+  background-color: #09192c;
+  padding: 80px 0;
+}
+footer h4 {
+  font-size: 2rem;
+  font-weight: 600;
+  color: white;
+}
+footer h4 span {
+  color: #f91257;
+}
+footer p {
+  padding: 15px;
+  font-size: 1.2rem;
+}
+footer a {
+  margin: 0 30px;
+  color: white;
+  cursor: pointer;
+}
+footer a:hover i {
+  color: #f91257;
+}
+footer a i {
+  font-size: 1.2rem;
+  transition: 0.3s ease;
+}
+
+/******************************
+Home - page
+******************************/
+.homeHeader {
+  background: #0b193c;
+}
+.homeHeader h1 {
+  font-size: 3rem;
+  font-weight: 700;
+}
+.homeHeader h1 span {
+  color: #f91257;
+}
+
+.cta {
+  padding: 80px 0;
+}
+.cta h2 {
+  font-size: 2.5rem;
+  font-weight: 700;
+}
+
+/******************************
+How it works - page
+******************************/
+.howitworksHeader {
+  background: #0b193c;
+  padding: 80px 0;
+}
+.howitworksHeader h1 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  padding: 30px 0 20px 0;
+}
+.howitworksHeader i {
+  font-size: 3rem;
+  color: #f91257;
+}
+.howitworksHeader h3 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin: 20px 0;
+}
+
+.conceptArtists {
+  padding: 80px 0;
+}
+.conceptArtists h2 {
+  font-size: 2.5rem;
+  font-weight: 700;
+}
+.conceptArtists p {
+  margin: 0;
+}
+.conceptArtists img {
+  border-radius: 15%;
+}
+.conceptArtists h3 {
+  font-size: 1rem;
+  font-weight: 600;
+  padding: 10px 0;
+}
+
+/******************************
+Subscribe - page
+******************************/
+.subscribeHeader {
+  background: #0b193c;
+  padding: 80px 0;
+}
+.subscribeHeader h1 {
+  font-size: 2.6rem;
+  font-weight: 700;
+}
+.subscribeHeader h1 span {
+  color: #f91257;
+  font-size: 2rem;
+}
+.subscribeHeader .col-md-6:last-child {
+  background: #383c6e;
+  border-radius: 30px;
+  padding: 20px;
+}
+.subscribeHeader .col-md-6:last-child li {
+  padding: 10px;
+}
+.subscribeHeader .col-md-6:last-child li i {
+  color: #f91257;
+  padding-right: 15px;
+}
+
+.rounded-img img {
+  border-radius: 50%;
+}
+
 /*# sourceMappingURL=style.css.map */
