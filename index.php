@@ -13,7 +13,7 @@
 				<a href="#" class="btn btn-secondary">Start free trial</a>
 			</div>
 			<div class="col-md-6 ps-5">
-				<img src="img/header.png" alt="" class="img-fluid w-100">
+				<img src="img/header.png" alt="" class="img-fluid w-100" loading="lazy">
 			</div>
 		</div>
 	</article>
