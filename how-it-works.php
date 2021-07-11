@@ -42,19 +42,19 @@
 		</div>
 		<div class="row text-center pt-5">
 			<div class="col-md-3">
-				<img src="img/artists1.jpg" alt="" class="img-fluid">
+				<img src="img/artists1.jpg" alt="" class="img-fluid" loading="lazy">
 				<h3>Soul music</h3>
 			</div>
 			<div class="col-md-3">
-				<img src="img/artists2.jpg" alt="" class="img-fluid">
+				<img src="img/artists2.jpg" alt="" class="img-fluid" loading="lazy">
 				<h3>Live concerts</h3>
 			</div>
 			<div class="col-md-3">
-				<img src="img/artists3.jpg" alt="" class="img-fluid">
+				<img src="img/artists3.jpg" alt="" class="img-fluid" loading="lazy">
 				<h3>DJ sets</h3>
 			</div>
 			<div class="col-md-3">
-				<img src="img/artists4.jpg" alt="" class="img-fluid">
+				<img src="img/artists4.jpg" alt="" class="img-fluid" loading="lazy">
 				<h3>Live streams</h3>
 			</div>
 		</div>
